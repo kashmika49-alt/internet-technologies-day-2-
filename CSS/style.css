@@ -1,0 +1,37 @@
+h1{
+    color: white;
+    font-family: sans-serif;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+body{
+    background-color:black;
+}
+
+body{
+    background-image:url(../img/8286348.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    
+}
+img{
+    filter: brightness(50%);
+}
+
+#box01 {
+    width: 50px;
+    height: 50px;
+    background-color: brown;
+    position: relative;
+    top: 20px;
+    left: 70px;
+}
+
+#box02 {
+    width: 100px;
+    height: 100px;
+    margin-top: 50px;
+    background-color: blue;
+}
